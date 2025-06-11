@@ -1,0 +1,19 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore build output
+/out/
+
+# Ignore logs or temp files
+*.log
+*.class
+
+# Ignore any hidden or misc files
+.DS_Store
+.shelf/
+workspace.xml
+httpRequests/
+mavenHomeManager.xml
+dataSources/
+dataSources.local.xml
